@@ -2,4 +2,4 @@
 
 - fork repo
 - do not create pr as maintainer!
-- p5
+- p6
